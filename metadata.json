@@ -1,0 +1,6 @@
+{
+  "name": "Al-Huda Quran Academy",
+  "description": "Recreation of Quran Learn Academy as Al-Huda Quran Academy, offering 1-on-1 online Quran classes with Tajweed, Noorani Qaida, and Islamic studies with male and female tutors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
